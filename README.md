@@ -1,2 +1,2 @@
 # unionpeer_adfree
-a simple scripts to remove unionpeer.org
+a simple scripts to remove ad from unionpeer.org
